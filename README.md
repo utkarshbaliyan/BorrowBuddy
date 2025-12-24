@@ -14,5 +14,4 @@
 3. Run the app:
    `npm run dev`
 
-   you will find the website image in the image folder
-   
+   you will find the website image in the image folder, this website doesn't have any backend.
